@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[:param ${1:name}: ${2:desc}]]></content>
+    <tabTrigger>:pa</tabTrigger>
+    <scope>source.python</scope>
+    <description>Sphinx parameter</description>
+</snippet>

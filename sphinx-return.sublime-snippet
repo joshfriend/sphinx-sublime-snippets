@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[:return: ${1:rval}]]></content>
+    <tabTrigger>:re</tabTrigger>
+    <scope>source.python</scope>
+    <description>Sphinx return</description>
+</snippet>

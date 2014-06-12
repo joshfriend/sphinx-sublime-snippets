@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[:raises: ${1:exception}]]></content>
+    <tabTrigger>:ra</tabTrigger>
+    <scope>source.python</scope>
+    <description>Sphinx raises</description>
+</snippet>
